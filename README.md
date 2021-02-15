@@ -15,6 +15,7 @@
 > Links
 
 - [Jinja Gradient PRO - Demo](https://jinja-gradient-pro.appseed-srv1.com/) - LIVE Demo
+- More [Jinja Templates](https://appseed.us/jinja-template) - provided by AppSeed
 
 <br />
 
